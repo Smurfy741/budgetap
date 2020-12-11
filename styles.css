@@ -1,0 +1,58 @@
+body {
+    /* use fonts.google.com*/   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* use uigradients.com*/
+    background: linear-gradient(to right, #fbc7d4, #9796f0);
+}
+
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+h1{
+    font-size: 2.5em;
+    margin-bottom: 0px;
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: lightblue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    margin:10px;
+}
+
+button:hover {
+   color: lightblue;
+    background-color: white;
+    padding: 5px 10px;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color:green;
+}
